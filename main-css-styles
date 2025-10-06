@@ -19,17 +19,17 @@
       align-self: stretch !important;
     
     /* Typography */
-      color: rgba(255, 255, 255, 0.50);
-      text-align: center;
+      color: rgba(255, 255, 255, 0.50) !important;
+      text-align: center !important;
 
       /* Main Styles/Title All Caps Bold */
-      font-family: var(--Font-Family-All-Caps, "Plus Jakarta Sans");
-      font-size: var(--Font-Size-Main-Styles-Title-All-Caps, 20px);
-      font-style: normal;
-      font-weight: 600;
-      line-height: 150%; /* 30px */
-      letter-spacing: 1.6px;
-      text-transform: uppercase;
+      font-family: var(--Font-Family-All-Caps, "Plus Jakarta Sans") !important;
+      font-size: var(--Font-Size-Main-Styles-Title-All-Caps, 20px) !important;
+      font-style: normal !important;
+      font-weight: 600 !important;
+      line-height: 150% !important; /* 30px */
+      letter-spacing: 1.6px !important;
+      text-transform: uppercase !important;
   }
 
 
